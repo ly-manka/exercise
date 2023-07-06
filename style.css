@@ -1,0 +1,8 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: radial-gradient(#f0f5ff, #0066cc);
+    height: 100vh;
+}
